@@ -1,8 +1,8 @@
 <?php
-const BASE_URL = "http://localhost/shop/";
+const BASE_URL = "http://64.23.132.74/shop/";
 const HOST = "localhost";
-const USER = "root";
-const PASS = "";
+const USER = "admin";
+const PASS = "f905d4ef3eea276958e2afb970b25b8138843041a9e9aa93";
 const DB = "shop";
 const CHARSET = "charset=utf8";
 const TITLE = "SHOP";
